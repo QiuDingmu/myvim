@@ -1,0 +1,7 @@
+nvim-data/
+*~
+vimfiles/
+nvim/autoload/
+nvim/plugged/
+tags
+undodir/
